@@ -14,7 +14,7 @@ a,hr{color:inherit}progress,sub,sup{vertical-align:baseline}blockquote,body,dd,d
                 </video>
             </button>
             <div id="mainChatContainer"
-                class="hidden transition-all duration-500 ease-in-out transform translate-x-[120%] flex flex-col w-full md:w-[440px] 3xl:w-[600px] h-[89vh] xl:h-[73vh] 3xl:h-[64vh] fixed bottom-4 right-0 md:right-4 border rounded-md bg-white">
+                class="hidden transition-all duration-500 ease-in-out transform translate-x-[120%] flex flex-col w-full md:w-[440px] 3xl:w-[600px] h-[89vh] xl:h-[73vh] 3xl:h-[64vh] fixed bottom-4 right-0 md:right-4 border rounded-t-3xl bg-white">
                 <!-- Header -->
                 <div class="bg-black rounded-t-3xl py-4 px-6 relative">
                     <div class="flex items-center justify-between">
