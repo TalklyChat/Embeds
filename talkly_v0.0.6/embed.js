@@ -13,7 +13,7 @@
   const MAX_MSGS = 100; // MAX MESS in HISTORY
   const ENDPOINT = "https://talkly.chat/api/chatbot/get-answer";
   const CSS =
-    "https://cdn.jsdelivr.net/gh/TalklyChat/Embeds@main/talkly_v0.0.5/style.css";
+    "https://cdn.jsdelivr.net/gh/TalklyChat/Embeds@main/talkly_v0.0.6/style.css";
 
   /* ───── POMOCNICZE ────────────────────────────────────────────────────── */
   const uuid = () =>
